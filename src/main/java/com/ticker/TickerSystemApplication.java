@@ -8,6 +8,7 @@ public class TickerSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TickerSystemApplication.class, args);
+		
 	}
 
 }
